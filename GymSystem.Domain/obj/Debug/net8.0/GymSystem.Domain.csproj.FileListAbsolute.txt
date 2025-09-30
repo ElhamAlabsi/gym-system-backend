@@ -1,0 +1,11 @@
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\bin\Debug\net8.0\GymSystem.Domain.deps.json
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\bin\Debug\net8.0\GymSystem.Domain.dll
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\bin\Debug\net8.0\GymSystem.Domain.pdb
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.AssemblyInfo.cs
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.dll
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\refint\GymSystem.Domain.dll
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.pdb
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\ref\GymSystem.Domain.dll
