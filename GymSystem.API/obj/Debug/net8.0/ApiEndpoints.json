@@ -30,5 +30,42 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymSystem.API.Controllers.ProfileController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Profile/AllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymSystem.API.Controllers.ProfileController",
+    "Method": "UpdateInfo",
+    "RelativePath": "api/Profile/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateInformationDto",
+        "Type": "GymSystem.Application.DTOs.AuthDtos.UpdateinfoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -4,11 +4,11 @@ using System.Security.Claims;
 using System.Text;
 using GymSystem.Application.Interfaces;
 using GymSystem.Domain.Entities;
-using GymSystem.Infrastructure.Configuration;
+using GymSystem.Application.Configuration;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace GymSystem.Infrastructure.Services
+namespace GymSystem.Application.Services
 {
     public class JwtService : IJwtService
     {

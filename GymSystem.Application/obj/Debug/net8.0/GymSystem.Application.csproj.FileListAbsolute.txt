@@ -13,3 +13,4 @@ C:\Users\elham\GymSysback\GymSystem\GymSystem.Application\bin\Debug\net8.0\GymSy
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Application\bin\Debug\net8.0\GymSystem.Domain.pdb
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Application\obj\Debug\net8.0\GymSystem.Application.csproj.AssemblyReference.cache
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Application\obj\Debug\net8.0\GymSyste.28C58630.Up2Date
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Application\obj\Debug\net8.0\GymSystem.Application.sourcelink.json

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 
 
-namespace GymSystem.Infrastructure.Configuration
+namespace GymSystem.Application.Configuration
 {
     public class JwtSettings
     {

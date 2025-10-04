@@ -8,6 +8,7 @@ using GymSystem.Application.Interfaces;
 using GymSystem.Domain.Entities;
 using GymSystem.Domain.Enums;
 
+
 namespace GymSystem.Application.Services
 {
     public class AuthService : IAuthService
@@ -15,22 +16,24 @@ namespace GymSystem.Application.Services
 
         private readonly IUserRepository _userRepository;
         private readonly IJwtService _jwtService;
+        private readonly PasswordHasher _passwordHasher;
 
-        public AuthService(IUserRepository userRepository , IJwtService jwtService )
+        public AuthService(IUserRepository userRepository , IJwtService jwtService ,PasswordHasher passwordHasher )
         {
             _userRepository =userRepository;
-            _jwtService =jwtService;    
+            _jwtService = jwtService;
+            _passwordHasher = passwordHasher;
 
         }
 
-   
+
         public async Task<AuthResponceDto> LogInAsync(LoginDto loginDto)
         {
 
             var user = await _userRepository.getByEmailAsync(loginDto.Email);
             if (user == null) return null;
 
-            if (user.PasswordHash != loginDto.Password)
+            if (!_passwordHasher.VerifyPassword(loginDto.Password, user.PasswordHash))
                 return null;
 
 
@@ -57,7 +60,7 @@ namespace GymSystem.Application.Services
             {
                 Name = registerDto.Name,
                 Email = registerDto.Email,
-                PasswordHash = registerDto.Password,
+                PasswordHash = _passwordHasher.HashPassword(registerDto.Password),
                 Role = UserRole.Member,
                 CreatedAt = DateTime.UtcNow,
                 IsActive = true

@@ -9,3 +9,4 @@ C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\refint\GymSystem.Domain.dll
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.pdb
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\ref\GymSystem.Domain.dll
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Domain\obj\Debug\net8.0\GymSystem.Domain.sourcelink.json

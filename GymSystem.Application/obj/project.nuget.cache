@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eNDgfQPHSOg=",
+  "dgSpecHash": "oWA1BoMldnQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\GymSystem.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\elham\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\elham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
     "C:\\Users\\elham\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.9\\microsoft.extensions.configuration.binder.9.0.9.nupkg.sha512",
     "C:\\Users\\elham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",

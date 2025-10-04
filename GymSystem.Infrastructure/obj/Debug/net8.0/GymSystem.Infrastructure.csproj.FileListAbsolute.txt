@@ -17,3 +17,4 @@ C:\Users\elham\GymSysback\GymSystem\GymSystem.Infrastructure\obj\Debug\net8.0\Gy
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Infrastructure\obj\Debug\net8.0\ref\GymSystem.Infrastructure.dll
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Infrastructure\bin\Debug\net8.0\GymSystem.Application.dll
 C:\Users\elham\GymSysback\GymSystem\GymSystem.Infrastructure\bin\Debug\net8.0\GymSystem.Application.pdb
+C:\Users\elham\GymSysback\GymSystem\GymSystem.Infrastructure\obj\Debug\net8.0\GymSystem.Infrastructure.sourcelink.json

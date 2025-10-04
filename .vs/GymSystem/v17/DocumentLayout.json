@@ -3,100 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\elham\\GymSysback\\GymSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\gymsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\gymsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\gymsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\gymsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\gymsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\gymsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\allusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\allusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\configuration\\gymsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\configuration\\gymsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\updateinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\updateinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\dtos\\authdtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\dtos\\authdtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\gymsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\gymsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\gymsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\gymsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\migrations\\20250926212245_gymmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\migrations\\20250926212245_gymmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\gymsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\gymsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\enums\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.application\\gymsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4077D74F-BB38-44A6-85BF-5F4897640086}|GymSystem.Application\\GymSystem.Application.csproj|solutionrelative:gymsystem.application\\gymsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\gymsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\gymsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A0CB0B-CE40-41C6-95F8-745866F533C7}|GymSystem.Domain\\GymSystem.Domain.csproj|solutionrelative:gymsystem.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.api\\gymsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6653012E-AB7A-4E5F-A92C-87D0CC07B13E}|GymSystem.API\\GymSystem.API.csproj|solutionrelative:gymsystem.api\\gymsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|c:\\users\\elham\\gymsysback\\gymsystem\\gymsystem.infrastructure\\migrations\\20250926212245_gymmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB78413-7E32-43B1-ADFA-D7824BCD96D2}|GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj|solutionrelative:gymsystem.infrastructure\\migrations\\20250926212245_gymmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,188 +147,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\JwtService.cs",
-              "RelativeToolTip": "GymSystem.Application\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T13:29:17.012Z",
-              "EditorCaption": ""
+              "Title": "GymSystem.API.http",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Configuration\\GymSystem.API.http",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Configuration\\GymSystem.API.http",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Configuration\\GymSystem.API.http",
+              "RelativeToolTip": "GymSystem.Application\\Configuration\\GymSystem.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-01T22:28:09.813Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
-              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T21:50:04.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "GymSystem.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwE0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T13:41:06.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GymSystem.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
-              "RelativeToolTip": "GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T21:21:02.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAiwEsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:11:13.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GymSystem.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\GymSystem.Domain.csproj",
-              "RelativeDocumentMoniker": "GymSystem.Domain\\GymSystem.Domain.csproj",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\GymSystem.Domain.csproj",
-              "RelativeToolTip": "GymSystem.Domain\\GymSystem.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T13:26:38.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\Subscription.cs",
-              "RelativeDocumentMoniker": "GymSystem.Domain\\Entities\\Subscription.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\Subscription.cs",
-              "RelativeToolTip": "GymSystem.Domain\\Entities\\Subscription.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T13:42:15.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "GymSystem.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "GymSystem.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T13:28:30.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "GymSystem.Domain\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\UserRole.cs",
-              "RelativeToolTip": "GymSystem.Domain\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T13:42:31.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\RegisterDto.cs",
               "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\RegisterDto.cs",
               "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T21:50:12.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T21:50:12.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthResponceDto.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
-              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UpdateinfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\UpdateinfoDto.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\UpdateinfoDto.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\UpdateinfoDto.cs",
+              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\UpdateinfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:31:05.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T19:26:42.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Configuration\\JwtSettings.cs",
               "RelativeDocumentMoniker": "GymSystem.Application\\Configuration\\JwtSettings.cs",
               "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Configuration\\JwtSettings.cs",
               "RelativeToolTip": "GymSystem.Application\\Configuration\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:48:55.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:48:55.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Program.cs",
-              "RelativeDocumentMoniker": "GymSystem.API\\Program.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Program.cs",
-              "RelativeToolTip": "GymSystem.API\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:00:52.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AuthControlle.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\AuthControlle.cs",
-              "RelativeDocumentMoniker": "GymSystem.API\\Controllers\\AuthControlle.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\AuthControlle.cs",
-              "RelativeToolTip": "GymSystem.API\\Controllers\\AuthControlle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:47:46.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "GymSystem.API.http",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\GymSystem.API.http",
               "RelativeDocumentMoniker": "GymSystem.API\\GymSystem.API.http",
@@ -312,7 +206,212 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "GymSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Program.cs",
+              "RelativeToolTip": "GymSystem.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:00:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "GymSystem.API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "GymSystem.API\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:30:24.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllUsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AllUsersDto.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\AllUsersDto.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AllUsersDto.cs",
+              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\AllUsersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:47:57.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "GymSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:11:13.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
+              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:50:04.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthResponceDto.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
+              "RelativeToolTip": "GymSystem.Application\\DTOs\\AuthDtos\\AuthResponceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:31:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:06:10.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:42:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:01:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:17:30.955Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:41:06.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:06:25.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "GymSystem.Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:09:07.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GymSystem.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "GymSystem.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:16:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GymSystem.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "GymSystem.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:28:30.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubscriptionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
+              "RelativeDocumentMoniker": "GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
+              "RelativeToolTip": "GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:13:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "GymSystem.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "GymSystem.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:42:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\appsettings.json",
               "RelativeDocumentMoniker": "GymSystem.API\\appsettings.json",
@@ -324,43 +423,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IJwtService.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IJwtService.cs",
-              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "AuthControlle.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\AuthControlle.cs",
+              "RelativeDocumentMoniker": "GymSystem.API\\Controllers\\AuthControlle.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\Controllers\\AuthControlle.cs",
+              "RelativeToolTip": "GymSystem.API\\Controllers\\AuthControlle.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:42:25.111Z"
+              "WhenOpened": "2025-09-26T22:47:46.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\GymDbContext.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymDbContext.cs",
+              "RelativeToolTip": "GymSystem.Infrastructure\\GymDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T14:06:10.795Z"
+              "WhenOpened": "2025-09-26T18:15:55.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "GymSystem.Application.csproj",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\GymSystem.Application.csproj",
               "RelativeDocumentMoniker": "GymSystem.Application\\GymSystem.Application.csproj",
               "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\GymSystem.Application.csproj",
               "RelativeToolTip": "GymSystem.Application\\GymSystem.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-26T21:20:42.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
+              "Title": "GymSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\GymSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "GymSystem.Domain\\GymSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\GymSystem.Domain.csproj",
+              "RelativeToolTip": "GymSystem.Domain\\GymSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T13:26:38.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "GymSystem.Domain\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "GymSystem.Domain\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:42:15.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GymSystem.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
+              "RelativeToolTip": "GymSystem.Infrastructure\\GymSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T21:21:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "GymSystem.API.csproj",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.API\\GymSystem.API.csproj",
               "RelativeDocumentMoniker": "GymSystem.API\\GymSystem.API.csproj",
@@ -372,19 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "GymSystem.Application\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Application\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "GymSystem.Application\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:01:44.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "20250926212245_gymMigration.cs",
               "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\Migrations\\20250926212245_gymMigration.cs",
               "RelativeDocumentMoniker": "GymSystem.Infrastructure\\Migrations\\20250926212245_gymMigration.cs",
@@ -393,30 +516,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T21:22:46.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GymDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymDbContext.cs",
-              "RelativeDocumentMoniker": "GymSystem.Infrastructure\\GymDbContext.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Infrastructure\\GymDbContext.cs",
-              "RelativeToolTip": "GymSystem.Infrastructure\\GymDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T18:15:55.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SubscriptionStatus.cs",
-              "DocumentMoniker": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
-              "RelativeDocumentMoniker": "GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
-              "ToolTip": "C:\\Users\\elham\\GymSysback\\GymSystem\\GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
-              "RelativeToolTip": "GymSystem.Domain\\Enums\\SubscriptionStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T17:13:41.88Z"
             }
           ]
         }
